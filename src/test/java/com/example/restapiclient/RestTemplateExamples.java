@@ -4,8 +4,8 @@ import org.junit.runner.RunWith;
 import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 
-@RunWith(SpringJUnit4ClassRunner.class) // kan være SpringRunner
-@SpringBootTest
+//@RunWith(SpringJUnit4ClassRunner.class) // kan være SpringRunner
+//@SpringBootTest
 public class RestTemplateExamples {
 
 //    final String API_ROOT = "https://api.predic8.de:443/shop/";
